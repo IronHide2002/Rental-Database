@@ -1,0 +1,12 @@
+-- Summary of the Project:
+-- Database: rentalproperty
+-- Tables:
+-- USERINFO: Stores user information.
+-- PROPINFO: Stores property information.
+-- tenantDet: Stores tenant details.
+-- Stored Procedures:
+-- SearchPropertyForRent: Finds properties available for rent in a specific locality.
+-- GetPropertyRecords: Retrieves property records owned by a specific user.
+-- GetTenantDetails: Fetches tenant details for a specific property.
+-- GetRentHistory: Retrieves rent history for a specific property.
+-- InsertPropertyRecord: Inserts a new property record, linking it to the owner.
